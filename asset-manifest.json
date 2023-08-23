@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/project/static/css/main.26dd0daa.css",
+    "main.js": "/project/static/js/main.b970bd5a.js",
+    "static/media/logo.png": "/project/static/media/logo.912c8b179e401a99c70b.png",
+    "static/media/sport3.webp": "/project/static/media/sport3.f6bc469279aa8dda57fa.webp",
+    "static/media/recipe1.webp": "/project/static/media/recipe1.84a35443a2e02c977597.webp",
+    "static/media/recipe3.webp": "/project/static/media/recipe3.3953d8b856353e1a01a6.webp",
+    "static/media/health1.webp": "/project/static/media/health1.9b8c1c829bfcb53cdccd.webp",
+    "static/media/health2.webp": "/project/static/media/health2.af661a1a58f3fc9e17a6.webp",
+    "static/media/recipe2.webp": "/project/static/media/recipe2.c0d290d6ea669617cd78.webp",
+    "static/media/sport2.webp": "/project/static/media/sport2.c6ec07d0abf066b98896.webp",
+    "static/media/sport1.webp": "/project/static/media/sport1.0a37aaf50d03c0671c4c.webp",
+    "static/media/health3.webp": "/project/static/media/health3.40cdfcb299af8e6dcade.webp",
+    "index.html": "/project/index.html",
+    "static/media/arrow-left.webp": "/project/static/media/arrow-left.9316ade5cd6959714a87.webp",
+    "static/media/arrow-right.webp": "/project/static/media/arrow-right.a7087125b220284dbadd.webp",
+    "main.26dd0daa.css.map": "/project/static/css/main.26dd0daa.css.map",
+    "main.b970bd5a.js.map": "/project/static/js/main.b970bd5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26dd0daa.css",
+    "static/js/main.b970bd5a.js"
+  ]
+}
